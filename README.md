@@ -3,6 +3,8 @@
 I build low-cost, verifiable engineering workflows around coding agents,
 simulation, and remote execution.
 
+我正在构建一套低成本、可验证、可远程执行的 AI 工程生产系统。
+
 The core line:
 
 ```text
